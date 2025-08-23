@@ -19,4 +19,13 @@ echo "Author: $Author\n";
 echo "Department: $Department\n";
 echo "Date: $Date\n";
 echo "Description: $Description\n";
+
+$age = 25;
+$isMember = true;
+
+if ($age >= 18 && $isMember) {
+    echo "Access granted: You are an adult and a member.\n";
+} else {
+    echo "Access denied: You must be an adult and a member.\n";
+}
 ?>
