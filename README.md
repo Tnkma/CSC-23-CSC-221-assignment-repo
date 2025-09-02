@@ -15,6 +15,8 @@ A comprehensive web-based student management system built for CSC 282 as part of
 
 The Student Management Portal is a modern, responsive web application designed to streamline student record management. The system provides an intuitive interface for registering new students, searching existing records, and managing student data efficiently.
 
+## Test the app features at `tnkma.com.ng`
+
 ## ✨ Features
 
 ### Core Functionality
@@ -88,7 +90,6 @@ CREATE TABLE student_records (
 1. **Clone/Download the project:**
    ```bash
    git clone https://github.com/Tnkma/CSC-23-CSC-221-assignment-repo.git
-   # OR download and extract ZIP file
    ```
 
 2. **Setup Web Server:**
