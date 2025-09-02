@@ -87,7 +87,7 @@ CREATE TABLE student_records (
 
 1. **Clone/Download the project:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Tnkma/CSC-23-CSC-221-assignment-repo.git
    # OR download and extract ZIP file
    ```
 
