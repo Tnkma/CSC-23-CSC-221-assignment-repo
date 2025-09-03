@@ -120,7 +120,7 @@ CREATE TABLE student_records (
 ### Student Registration
 1. Navigate to the "Register" tab on the homepage
 2. Fill in all required fields:
-   - Registration Number (e.g., CSC/2023/001)
+   - Registration Number (e.g., 23/CSC/001)
    - Full Name
    - Email Address
    - Department
